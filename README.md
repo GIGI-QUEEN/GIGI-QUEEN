@@ -1,4 +1,3 @@
-### Hi there 👋
 Hello, I'm [Nikita](https://www.linkedin.com/in/nikita-masalov/) 👋
 
 I've graduated from [Kood/Jõhvi](https://kood.tech/) in March 2024. Throughout my studies at this school, I've acquired valuable skills such as programming, problem-solving, teamwork, and project building. The most important skill I've gained is a "I can do it" mindset. I firmly believe that every problem has a solution; you just need to spend some time to find it. 
