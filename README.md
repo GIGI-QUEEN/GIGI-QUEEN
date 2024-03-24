@@ -7,7 +7,7 @@ I am keen on expanding and honing my skills as a React Developer, but I would al
 
 Currently I'm working on my own portfolio web site 💼 
 
-My favourite  projects from my Kood/Jõhvi journey:
+My favorite  projects from my Kood/Jõhvi journey:
 
 [Mock Market](https://github.com/GIGI-QUEEN/mock-market) 🤑 - a live-data stock-market app written on flutter;
 
