@@ -4,7 +4,7 @@ I've graduated from [Kood/Jõhvi](https://kood.tech/) in March 2024. Throughout 
 
 I am keen on expanding and honing my skills as a React Developer, but I would also be happy to start moving towards Full Stack Developer role.
 
-Currently I'm working on my own portfolio web site 💼 
+Currently I'm working on my own portfolio web site 💼 - [www.masalov.dev](https://www.masalov.dev/)
 
 My favorite  projects from my Kood/Jõhvi journey:
 
